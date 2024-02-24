@@ -1,7 +1,7 @@
 ## Hi, I'm Ming!
 
 I'm studying **Computer Science at the University of Waterloo**, expecting to graduate in **April 2025**. 
-- 🌱 SWE intern @ Capital One | Previously @ PointClickCare, Trend Micro, Security Compass
+- 🌱 Previously @ Capital One PointClickCare, Trend Micro, Security Compass
 - 💬 Ask me about: Horror movies, application security vulnerabilities, fantasy novels, fishing 🎣
 - 📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/ming-chen1) | [Email](mailto:m424chen@uwaterloo.ca)
 
