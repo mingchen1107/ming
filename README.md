@@ -5,4 +5,3 @@ I'm studying **Computer Science at the University of Waterloo**, and graduating 
 - 💬 Ask me about: Horror movies, application security vulnerabilities, fantasy novels, fishing 🎣
 - 📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/ming-chen1) | [Email](mailto:m424chen@uwaterloo.ca)
 
-**Currently seeking Summer 2024 internship oppurtunities!** 
